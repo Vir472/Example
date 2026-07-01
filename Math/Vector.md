@@ -23,6 +23,7 @@ private static void GetDirectory(string path)
 ```
 
 - 테이블
+
 Test|Test2|Test3
 ---|---|---
 c#|c++|python
